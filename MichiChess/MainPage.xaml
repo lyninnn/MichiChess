@@ -1,0 +1,33 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodels="clr-namespace:MichiChess.ViewModels"
+             x:Class="MichiChess.MainPage">
+
+    <ContentPage.BindingContext>
+        <viewmodels:ChessViewModel />
+    </ContentPage.BindingContext>
+
+    <Grid>
+        <CollectionView ItemsSource="{Binding Cells}">
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout Orientation="Vertical" Span="8" />
+            </CollectionView.ItemsLayout>
+
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="5" BackgroundColor="{Binding BackgroundColor}">
+
+                        <Image Source="{Binding Piece.ImageSource}" 
+                                       HorizontalOptions="Center"
+                                       VerticalOptions="Center"
+                                       WidthRequest="50"
+                                       HeightRequest="50"/>
+                        
+                        <!-- Accediendo a la propiedad PieceColor -->
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+
+</ContentPage>

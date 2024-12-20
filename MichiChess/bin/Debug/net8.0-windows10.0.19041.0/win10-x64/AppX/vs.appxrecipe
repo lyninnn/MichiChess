@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\turis\Desktop\MichiChess\MichiChess\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-12-19T23:57:16.031</Modified>
+      <Modified>2024-12-20T00:00:07.798</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-12-19T23:35:39.231</Modified>
+      <Modified>2024-12-20T00:00:07.652</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MichiChess.runtimeconfig.json">
       <PackagePath>MichiChess.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MichiChess.dll">
       <PackagePath>MichiChess.dll</PackagePath>
-      <Modified>2024-12-19T23:57:15.771</Modified>
+      <Modified>2024-12-20T00:00:06.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MichiChess.exe</PackagePath>
-      <Modified>2024-12-19T23:57:15.780</Modified>
+      <Modified>2024-12-20T00:00:06.654</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -84,239 +84,191 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-12-19T23:35:04.752</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.746</Modified>
+      <Modified>2024-12-20T00:00:03.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.746</Modified>
+      <Modified>2024-12-20T00:00:03.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.745</Modified>
+      <Modified>2024-12-20T00:00:03.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.745</Modified>
+      <Modified>2024-12-20T00:00:03.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.745</Modified>
+      <Modified>2024-12-20T00:00:03.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.750</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.750</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.749</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.750</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.749</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.751</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.750</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.750</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.750</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.750</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.752</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.752</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.752</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.751</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.751</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.751</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.751</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.751</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.751</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.751</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.748</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.747</Modified>
+      <Modified>2024-12-20T00:00:03.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.747</Modified>
+      <Modified>2024-12-20T00:00:03.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.747</Modified>
+      <Modified>2024-12-20T00:00:03.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.747</Modified>
+      <Modified>2024-12-20T00:00:03.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.748</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.748</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.748</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.748</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.748</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.749</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.749</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.749</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.749</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.748</Modified>
+      <Modified>2024-12-20T00:00:03.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.747</Modified>
+      <Modified>2024-12-20T00:00:03.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.746</Modified>
+      <Modified>2024-12-20T00:00:03.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.746</Modified>
+      <Modified>2024-12-20T00:00:03.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.746</Modified>
+      <Modified>2024-12-20T00:00:03.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.746</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\blackbishop.scale-100.png">
-      <PackagePath>blackbishop.scale-100.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.752</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\blackking.scale-100.png">
-      <PackagePath>blackking.scale-100.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.752</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\blackknight.scale-100.png">
-      <PackagePath>blackknight.scale-100.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.753</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\blackpawn.scale-100.png">
-      <PackagePath>blackpawn.scale-100.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.753</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\blackqueen.scale-100.png">
-      <PackagePath>blackqueen.scale-100.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.753</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\blackrook.scale-100.png">
-      <PackagePath>blackrook.scale-100.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.753</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\whitebishop.scale-100.png">
-      <PackagePath>whitebishop.scale-100.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.753</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\whiteking.scale-100.png">
-      <PackagePath>whiteking.scale-100.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.753</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\whiteknight.scale-100.png">
-      <PackagePath>whiteknight.scale-100.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.753</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\whitepawn.scale-100.png">
-      <PackagePath>whitepawn.scale-100.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.752</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\whitequeen.scale-100.png">
-      <PackagePath>whitequeen.scale-100.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.753</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\whiterook.scale-100.png">
-      <PackagePath>whiterook.scale-100.png</PackagePath>
-      <Modified>2024-12-19T23:35:04.754</Modified>
+      <Modified>2024-12-20T00:00:03.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MichiChess.deps.json">
       <PackagePath>MichiChess.deps.json</PackagePath>
-      <Modified>2024-12-19T23:35:39.045</Modified>
+      <Modified>2024-12-20T00:00:07.476</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.54\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -613,6 +565,54 @@
     <AppxPackagedFile Include="C:\Users\turis\.nuget\packages\microsoft.maui.core\8.0.83\lib\net8.0-windows10.0.19041\Microsoft.Maui.pri">
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2024-10-29T21:54:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\blackbishop.png">
+      <PackagePath>Resources\Images\blackbishop.png</PackagePath>
+      <Modified>2024-12-19T23:33:36.094</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\blackking.png">
+      <PackagePath>Resources\Images\blackking.png</PackagePath>
+      <Modified>2024-12-19T23:34:56.029</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\blackknight.png">
+      <PackagePath>Resources\Images\blackknight.png</PackagePath>
+      <Modified>2024-12-19T23:33:57.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\blackpawn.png">
+      <PackagePath>Resources\Images\blackpawn.png</PackagePath>
+      <Modified>2024-12-19T23:32:41.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\blackqueen.png">
+      <PackagePath>Resources\Images\blackqueen.png</PackagePath>
+      <Modified>2024-12-19T23:34:38.292</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\blackrook.png">
+      <PackagePath>Resources\Images\blackrook.png</PackagePath>
+      <Modified>2024-12-19T23:34:20.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\whitebishop.png">
+      <PackagePath>Resources\Images\whitebishop.png</PackagePath>
+      <Modified>2024-12-19T23:33:46.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\whiteking.png">
+      <PackagePath>Resources\Images\whiteking.png</PackagePath>
+      <Modified>2024-12-19T23:35:02.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\whiteknight.png">
+      <PackagePath>Resources\Images\whiteknight.png</PackagePath>
+      <Modified>2024-12-19T23:34:06.500</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\whitepawn.png">
+      <PackagePath>Resources\Images\whitepawn.png</PackagePath>
+      <Modified>2024-12-19T23:32:28.604</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\whitequeen.png">
+      <PackagePath>Resources\Images\whitequeen.png</PackagePath>
+      <Modified>2024-12-19T23:34:46.900</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\whiterook.png">
+      <PackagePath>Resources\Images\whiterook.png</PackagePath>
+      <Modified>2024-12-19T23:34:29.201</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

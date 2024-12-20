@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\turis\\Desktop\\MichiChess\\MichiChess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|c:\\users\\turis\\desktop\\michichess\\michichess\\models\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|solutionrelative:models\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|c:\\users\\turis\\desktop\\michichess\\michichess\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -15,12 +11,20 @@
       "RelativeMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|c:\\users\\turis\\desktop\\michichess\\michichess\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|c:\\users\\turis\\desktop\\michichess\\michichess\\models\\chessboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|solutionrelative:models\\chessboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|c:\\users\\turis\\desktop\\michichess\\michichess\\models\\cells.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|solutionrelative:models\\cells.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|c:\\users\\turis\\desktop\\michichess\\michichess\\models\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|solutionrelative:models\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,8 +33,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 155,
-          "SelectedChildIndex": 13,
+          "DockedWidth": 222,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,6 +78,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\turis\\Desktop\\MichiChess\\MichiChess\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\turis\\Desktop\\MichiChess\\MichiChess\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T00:06:18.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Cells.cs",
               "DocumentMoniker": "C:\\Users\\turis\\Desktop\\MichiChess\\MichiChess\\Models\\Cells.cs",
@@ -93,14 +110,14 @@
               "RelativeDocumentMoniker": "Models\\ChessBoard.cs",
               "ToolTip": "C:\\Users\\turis\\Desktop\\MichiChess\\MichiChess\\Models\\ChessBoard.cs",
               "RelativeToolTip": "Models\\ChessBoard.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwB8AAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCEAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T23:32:50.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\turis\\Desktop\\MichiChess\\MichiChess\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
@@ -113,13 +130,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\turis\\Desktop\\MichiChess\\MichiChess\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
               "ToolTip": "C:\\Users\\turis\\Desktop\\MichiChess\\MichiChess\\MainPage.xaml",
               "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-19T23:30:46.411Z",
               "EditorCaption": ""
@@ -127,12 +144,12 @@
           ]
         },
         {
-          "DockedWidth": 227,
+          "DockedWidth": 160,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ChessPiece.cs",
               "DocumentMoniker": "C:\\Users\\turis\\Desktop\\MichiChess\\MichiChess\\Models\\ChessPiece.cs",
               "RelativeDocumentMoniker": "Models\\ChessPiece.cs",

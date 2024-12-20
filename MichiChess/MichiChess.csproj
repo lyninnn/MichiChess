@@ -56,13 +56,42 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiImage Remove="Resources\Images\blackbishop.png" />
+	  <MauiImage Remove="Resources\Images\blackking.png" />
+	  <MauiImage Remove="Resources\Images\blackknight.png" />
+	  <MauiImage Remove="Resources\Images\blackpawn.png" />
+	  <MauiImage Remove="Resources\Images\blackqueen.png" />
+	  <MauiImage Remove="Resources\Images\blackrook.png" />
+	  <MauiImage Remove="Resources\Images\whitebishop.png" />
+	  <MauiImage Remove="Resources\Images\whiteking.png" />
+	  <MauiImage Remove="Resources\Images\whiteknight.png" />
+	  <MauiImage Remove="Resources\Images\whitepawn.png" />
+	  <MauiImage Remove="Resources\Images\whitequeen.png" />
+	  <MauiImage Remove="Resources\Images\whiterook.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Content Include="Resources\Images\blackbishop.png" />
+	  <Content Include="Resources\Images\blackking.png" />
+	  <Content Include="Resources\Images\blackknight.png" />
+	  <Content Include="Resources\Images\blackpawn.png" />
+	  <Content Include="Resources\Images\blackqueen.png" />
+	  <Content Include="Resources\Images\blackrook.png" />
+	  <Content Include="Resources\Images\whitebishop.png" />
+	  <Content Include="Resources\Images\whiteking.png" />
+	  <Content Include="Resources\Images\whiteknight.png" />
+	  <Content Include="Resources\Images\whitepawn.png" />
+	  <Content Include="Resources\Images\whitequeen.png" />
+	  <Content Include="Resources\Images\whiterook.png" />
+	</ItemGroup>
+
+	<ItemGroup>
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.1" />
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Resources\Images\" />
 	  <Folder Include="Views\" />
 	</ItemGroup>
 

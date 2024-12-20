@@ -172,15 +172,4 @@ C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.
 C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
-C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\blackbishop.scale-100.png
-C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\blackking.scale-100.png
-C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\blackknight.scale-100.png
-C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\blackpawn.scale-100.png
-C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\blackqueen.scale-100.png
-C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\blackrook.scale-100.png
-C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\whitebishop.scale-100.png
-C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\whiteking.scale-100.png
-C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\whiteknight.scale-100.png
-C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\whitepawn.scale-100.png
-C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\whitequeen.scale-100.png
-C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\whiterook.scale-100.png
+C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MichiChess.sourcelink.json

@@ -199,42 +199,6 @@
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\blackbishop.scale-100.png">
-      <PackagePath>blackbishop.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\blackking.scale-100.png">
-      <PackagePath>blackking.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\blackknight.scale-100.png">
-      <PackagePath>blackknight.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\blackpawn.scale-100.png">
-      <PackagePath>blackpawn.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\blackqueen.scale-100.png">
-      <PackagePath>blackqueen.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\blackrook.scale-100.png">
-      <PackagePath>blackrook.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\whitebishop.scale-100.png">
-      <PackagePath>whitebishop.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\whiteking.scale-100.png">
-      <PackagePath>whiteking.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\whiteknight.scale-100.png">
-      <PackagePath>whiteknight.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\whitepawn.scale-100.png">
-      <PackagePath>whitepawn.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\whitequeen.scale-100.png">
-      <PackagePath>whitequeen.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\whiterook.scale-100.png">
-      <PackagePath>whiterook.scale-100.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MichiChess.deps.json">
       <PackagePath>MichiChess.deps.json</PackagePath>
     </AppxPackagedFile>
@@ -459,6 +423,42 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\turis\.nuget\packages\microsoft.maui.core\8.0.83\lib\net8.0-windows10.0.19041\Microsoft.Maui.pri">
       <PackagePath>Microsoft.Maui.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\blackbishop.png">
+      <PackagePath>Resources\Images\blackbishop.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\blackking.png">
+      <PackagePath>Resources\Images\blackking.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\blackknight.png">
+      <PackagePath>Resources\Images\blackknight.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\blackpawn.png">
+      <PackagePath>Resources\Images\blackpawn.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\blackqueen.png">
+      <PackagePath>Resources\Images\blackqueen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\blackrook.png">
+      <PackagePath>Resources\Images\blackrook.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\whitebishop.png">
+      <PackagePath>Resources\Images\whitebishop.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\whiteking.png">
+      <PackagePath>Resources\Images\whiteking.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\whiteknight.png">
+      <PackagePath>Resources\Images\whiteknight.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\whitepawn.png">
+      <PackagePath>Resources\Images\whitepawn.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\whitequeen.png">
+      <PackagePath>Resources\Images\whitequeen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\turis\Desktop\MichiChess\MichiChess\Resources\Images\whiterook.png">
+      <PackagePath>Resources\Images\whiterook.png</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

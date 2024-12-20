@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\turis\\Desktop\\MichiChess\\MichiChess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|c:\\users\\turis\\desktop\\michichess\\michichess\\models\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|solutionrelative:models\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|c:\\users\\turis\\desktop\\michichess\\michichess\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|c:\\users\\turis\\desktop\\michichess\\michichess\\models\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|solutionrelative:models\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55E53626-5C0D-4470-94EC-FCF351C6AD9E}|MichiChess.csproj|c:\\users\\turis\\desktop\\michichess\\michichess\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,7 +29,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 101,
+          "DockedWidth": 222,
           "SelectedChildIndex": 13,
           "Children": [
             {
@@ -82,8 +82,7 @@
               "RelativeToolTip": "Models\\Cells.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T23:47:14.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T23:47:14.09Z"
             },
             {
               "$type": "Document",
@@ -95,8 +94,7 @@
               "RelativeToolTip": "Models\\ChessBoard.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAgwB8AAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T23:32:50.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T23:32:50.227Z"
             },
             {
               "$type": "Document",
@@ -108,12 +106,11 @@
               "RelativeToolTip": "MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T23:31:00.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T23:31:00.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\turis\\Desktop\\MichiChess\\MichiChess\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
@@ -127,18 +124,18 @@
           ]
         },
         {
-          "DockedWidth": 281,
+          "DockedWidth": 160,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ChessPiece.cs",
               "DocumentMoniker": "C:\\Users\\turis\\Desktop\\MichiChess\\MichiChess\\Models\\ChessPiece.cs",
               "RelativeDocumentMoniker": "Models\\ChessPiece.cs",
               "ToolTip": "C:\\Users\\turis\\Desktop\\MichiChess\\MichiChess\\Models\\ChessPiece.cs",
               "RelativeToolTip": "Models\\ChessPiece.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAwwB8AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T23:32:47.718Z",
               "EditorCaption": ""
